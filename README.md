@@ -4,8 +4,8 @@
 
 ## Authors
 
-- [@wattsxx](https://www.github.com/wattsxx)
-- [@Mikecwagner21](https://www.github.com/Mikecwagner21)
-- [@Angeladc](https://www.github.com/Angeladc)
-- [@josephgmurphy](https://www.github.com/josephgmurphy)
-- [@nakulsajan](https://www.github.com/nakulsajan)
+- Ethan Watts      [@wattsxx](https://www.github.com/wattsxx)
+- Michael Wagner   [@Mikecwagner21](https://www.github.com/Mikecwagner21)
+- Angela Canales   [@Angeladc](https://www.github.com/Angeladc)
+- Joe Murphy       [@josephgmurphy](https://www.github.com/josephgmurphy)
+- Nakul Sajan      [@nakulsajan](https://www.github.com/nakulsajan)
