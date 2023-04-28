@@ -16,3 +16,5 @@
 ![RecencyBias](https://github.com/wattsxx/GroupProject2-TableauGraphs/blob/main/Screenshot%202023-04-28%20160652.png)
 
 ![RatingTotalsOverYears](https://github.com/wattsxx/GroupProject2-TableauGraphs/blob/main/Screenshot%202023-04-28%20162525.png)
+
+![Workbook](https://github.com/wattsxx/Tableau-GroupProject2-Workbook/blob/main/MIST%20Tableau%20project.twb)
