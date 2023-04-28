@@ -11,4 +11,8 @@
 - Nakul Sajan      [@nakulsajan](https://www.github.com/nakulsajan)
 
 
+![EffeciencyRating](https://github.com/wattsxx/GroupProject2-TableauGraphs/blob/main/Screenshot%202023-04-28%20160049.png)
 
+![RecencyBias](https://github.com/wattsxx/GroupProject2-TableauGraphs/blob/main/Screenshot%202023-04-28%20160652.png)
+
+![RatingTotalsOverYears](https://github.com/wattsxx/GroupProject2-TableauGraphs/blob/main/Screenshot%202023-04-28%20162525.png)
