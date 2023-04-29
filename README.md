@@ -33,9 +33,16 @@ This question addresses whether or not movies within recent years tend to be rat
 
 ![RatingTotalsOverYears](https://github.com/wattsxx/GroupProject2-TableauGraphs/blob/main/Screenshot%202023-04-28%20162525.png)
 
-## Description
+## Analysis and Results
+# Graph 1
+The first graph depicts our Efficiency rating, and which movies have the highest rating. The efficiency rating shows which movies were most efficient with their budget. This table then takes those ratings to show which movies were the most successful given their efficiency ratings. This graph depicts those with the highest ratings as dark blue, getting lighter the lower their rating. We decided to exclude several of the variables with very low ratings to provide a clearer understanding of those with higher ratings. Overall, we used this to continue our analysis in trying to find a trend in the most successful movies. 
 
-This final graph is to confirm our findings found in our recency bias graph. We found that there was a slight trend upwards for the newer years. In this graph we took the sum of the ratings, and displayed it across years. This works to show that the newer years have a higher overall sum of ratings. Had this been a dataset of a random set of movies this would not work, however this dataset already shows the top 250 movies, meaning that by providing the sum of ratings shows that years may have had multiple movies all within the top 250. We had a definite peak around the 90s, which was anticipated. We hypothesized that this could be a trend once we found that IMDB was started in the 90s, and this graph confirms our hypothesis. 
+# Graph 2
+The second graph shows the ratings of movies and the years they were in. Each movie is depicted by a dot on the graph. We also fit a regression line to show an increase in the ratings in newer years. This was something we expected to begin with and were able to confirm with this graph. This answers our question 2. We then chose to create a third graph to further explore our findings. 
+
+#Graph 3
+This final graph is to confirm the findings found in our recency bias graph. We found that there was a slight trend upwards for the newer years. In this graph we took the sum of the ratings and displayed it over the years. This works to show that the newer years have a higher overall sum of ratings. Had this been a dataset of a random set of movies this would not work, however this dataset already shows the top 250 movies, meaning that by providing the sum of ratings shows that years may have had multiple movies all within the top 250. We had a definite peak around the 90s, which was anticipated. We hypothesized that this could be a trend once we found that IMDB was started in the 90s, and this graph confirms our hypothesis.
+
 
 ![Full Tableau Workbook](https://github.com/wattsxx/Tableau-GroupProject2-Workbook/blob/main/MIST%20Tableau%20project.twb)
 
