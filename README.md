@@ -50,8 +50,3 @@ This final graph is to confirm the findings found in our recency bias graph. We 
 
 
 ![Full Tableau Workbook](https://github.com/wattsxx/Tableau-GroupProject2-Workbook/blob/main/MIST%20Tableau%20project.twb)
-
-
-
-
-With regards to our second question, we wanted to examine the relationship between time(year the movie was released) and the rating IMDb gave the movie. Thus, we took these two existing fields located in the data set and created a scatterplot to visualize ratings of the movies over time. We then went one step further by using a regression line. This regression line that we incorporated into our scatterplot allowed a more in depth analysis of the correlation between the two variables. After using this regression line to determine correlation, we were then better able to see if there was recency bias in the data set. In other words, did IMDb tend to give recent movies higher ratings as opposed to older ones.
