@@ -13,14 +13,6 @@
 - Nakul Sajan      [@nakulsajan](https://www.github.com/nakulsajan)
 
 
-![EffeciencyRating](https://github.com/wattsxx/GroupProject2-TableauGraphs/blob/main/Screenshot%202023-04-28%20160049.png)
-
-IMDb is the largest database of movies and television shows. This dataset consists of the top 250 movies IMDb rates since 1921 through 2022. This list contains pertinent information to these 250 movies including, rank, year, rating, budget and box office. This list was last updated in 2022 and doesn’t contain any movies in 2023. The columns are rank, which lists the rank the movie is out of 250, rated by IMDb. Name, which lists the movie name. Year, which displays the year the movie was released. Rating shows the movie critics’ rating of the movie out of 10. Genre shows the genre of the movie out of broad categories such as horror, action, or thriller. Certificate displays whether the movie was G, PG, PG-13, or R. Run_time shows the timestamp of the length of the movie. Tagline displays a famous line from each movie. Budget shows the amount of money they spent to make the movie. Box_office shows the amount of money the movie made from theaters. Casts lists all the actors that performed in the movie. Directors, lists the director(s) who directed the movie. Writers lists the writers who made the movie. We found this data set through Kaggle.
-![RecencyBias](https://github.com/wattsxx/GroupProject2-TableauGraphs/blob/main/Screenshot%202023-04-28%20160652.png)
-
-![RatingTotalsOverYears](https://github.com/wattsxx/GroupProject2-TableauGraphs/blob/main/Screenshot%202023-04-28%20162525.png)
-
-
 ## Questions and Significance
 
 Question 1: Does the amount budgeted for a movie affect the success at the box office, and is there a trend between the ROI and their movie rating?
@@ -31,6 +23,12 @@ Question 2: Since the IMDB was created in 1990, is there recency bias in Imdb ra
 
 This question addresses whether or not movies within recent years tend to be rated higher than those made several decades ago within the popular film online database, IMDB. Movie enjoyers tend to look at IMDB and their ratings when determining which movies are worth watching and which ones aren’t. However, IMDB was created in the year 1990, so we wonder if there is a recency bias within the 250 highest rated movies within the drama genre on the IMDB from the year it was established to the present. Our question and analysis will evaluate whether or not there is a recency bias between drama movies created from 1990 - 2022 based on a trend, which could reveal that the IMDB is not as credible as it should be in terms of rating the top 250 movies of all time. This could be impactful in terms of drama movie enjoyers or the general public not relying on the IMDB like they used to for this kind of data due to their potential biases. 
 
+![EffeciencyRating](https://github.com/wattsxx/GroupProject2-TableauGraphs/blob/main/Screenshot%202023-04-28%20160049.png)
+
+IMDb is the largest database of movies and television shows. This dataset consists of the top 250 movies IMDb rates since 1921 through 2022. This list contains pertinent information to these 250 movies including, rank, year, rating, budget and box office. This list was last updated in 2022 and doesn’t contain any movies in 2023. The columns are rank, which lists the rank the movie is out of 250, rated by IMDb. Name, which lists the movie name. Year, which displays the year the movie was released. Rating shows the movie critics’ rating of the movie out of 10. Genre shows the genre of the movie out of broad categories such as horror, action, or thriller. Certificate displays whether the movie was G, PG, PG-13, or R. Run_time shows the timestamp of the length of the movie. Tagline displays a famous line from each movie. Budget shows the amount of money they spent to make the movie. Box_office shows the amount of money the movie made from theaters. Casts lists all the actors that performed in the movie. Directors, lists the director(s) who directed the movie. Writers lists the writers who made the movie. We found this data set through Kaggle.
+![RecencyBias](https://github.com/wattsxx/GroupProject2-TableauGraphs/blob/main/Screenshot%202023-04-28%20160652.png)
+
+![RatingTotalsOverYears](https://github.com/wattsxx/GroupProject2-TableauGraphs/blob/main/Screenshot%202023-04-28%20162525.png)
 
 ## Description
 
